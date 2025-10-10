@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# File formats
+pyarrow           # for parquet files
+openpyxl          # for Excel (metadata.xlsx)
+
+# Plotting & visualization
+matplotlib
+seaborn
+
+# Audio processing & playback
+soundfile         # read/write FLAC and WAV
+pydub             # convenient audio handling
+librosa           # feature extraction, spectrograms
+simpleaudio       # lightweight audio playback
+
+# Jupyter & interactive work
+jupyter
+ipython
+notebook
+
+# Annotation & utilities
+tqdm              # progress bars
