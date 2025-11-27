@@ -10,6 +10,8 @@
 The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit.
 
+## Contacts
+For any questions please contact zjasiunas (at) fc.ul.pt
 
 ## Overview
 Household laundry appliances (washing machines, tumble dryers) are significant contributors to residential energy consumption. While energy labels provide standardized efficiency values, **actual performance strongly depends on user behavior and operating conditions**.
