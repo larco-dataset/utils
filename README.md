@@ -44,7 +44,7 @@ LARCO supports research on:
 - Personalised energy feedback systems  
 - Sustainable energy use and demand-side management  
 
-Dataset DOI: [Zenodo DOI here]  
+Dataset DOI: https://doi.org/10.5281/zenodo.17714134
 
 ---
 
