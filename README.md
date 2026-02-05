@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17063530.svg)](https://doi.org/10.5281/zenodo.17063530)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
-![Maintenance](https://img.shields.io/maintenance/yes/2025)
+![Maintenance](https://img.shields.io/maintenance/yes/2026)
 ![Dataset size](https://img.shields.io/badge/size-36GB-blue)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
