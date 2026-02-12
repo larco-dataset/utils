@@ -124,6 +124,7 @@ LARCO/                          # main folder
 ├── exploratory_stage/          # from `general.zip`
 ├── aggregated_data.csv         # combined dataset (all modalities)
 ├── aggregated_data_acc.csv     # aggregated accelerometer data
+├── weather_data.csv            # external weather data
 ├── aggregated_data_audio.csv   # aggregated audio data
 └── metadata.xlsx               # sensor models, description of use, units, frequencies
 ```
