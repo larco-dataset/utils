@@ -34,7 +34,9 @@ Aggregated metadata:
 - Load info (target load, actual dry load weight, post-cycle wet weight)
 - Lab-specific data (position ID in laboratory setup)
 - Data quality flags (accelerometer/audio availability, missing values indicator)
-- Weather data (outdoor temperature, humidity, and atmospheric pressure from OpenWeatherMap, lab only)
+  
+Outsource data:
+- Weather data (outdoor temperature, humidity, and atmospheric pressure from OpenWeatherMap)
 
 LARCO supports research on:
 - Appliance efficiency assessment  
