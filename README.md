@@ -4,10 +4,10 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2026)
 ![Dataset size](https://img.shields.io/badge/size-36GB-blue)
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+[![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## License
-The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The dataset is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) https://creativecommons.org/licenses/by-nd/4.0/deed.en.
 You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit.
 
 ## Contacts
