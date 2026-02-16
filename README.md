@@ -1,6 +1,6 @@
 # LARCO: Household Laundry Appliance Resource Consumption and Operation Dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18657997.svg)]
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18657997.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2026)
 ![Dataset size](https://img.shields.io/badge/size-36GB-blue)
