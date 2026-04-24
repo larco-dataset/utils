@@ -7,7 +7,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## License
-The dataset is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) https://creativecommons.org/licenses/by-nd/4.0/deed.en.
+The dataset is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/deed.en.
 You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit.
 
 ## Contacts
